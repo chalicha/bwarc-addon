@@ -1,0 +1,10 @@
+{
+"id": "com.bwarc.addon",
+"version": "1.0.0",
+"name": "BWARC",
+"description": "BWARC streams for Nuvio",
+"resources": ["stream"],
+"types": ["movie", "series"],
+"idPrefixes": ["tt", "tmdb:"],
+"catalogs": []
+}
